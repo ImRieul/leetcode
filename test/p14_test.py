@@ -1,5 +1,5 @@
 import unittest
-from p14_longest_common_prefix import Solution
+from problem.p14_longest_common_prefix import Solution
 
 
 class MyTestCase(unittest.TestCase):

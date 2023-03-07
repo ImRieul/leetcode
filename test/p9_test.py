@@ -1,5 +1,5 @@
 ﻿import unittest
-from p9_palindrome_number import Solution
+from problem.p9_palindrome_number import Solution
 
 
 class MyTestCase(unittest.TestCase):
